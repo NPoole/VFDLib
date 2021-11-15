@@ -974,15 +974,15 @@
 </packages>
 <symbols>
 <symbol name="NORITAKE_ITRON_128X32">
-<pin name="F1" x="-12.7" y="12.7" visible="pin" length="short"/>
-<pin name="F2" x="-12.7" y="10.16" visible="pin" length="short"/>
+<pin name="F1" x="-12.7" y="17.78" visible="pin" length="short"/>
+<pin name="F2" x="-12.7" y="15.24" visible="pin" length="short"/>
 <pin name="BLK1" x="15.24" y="10.16" visible="pin" length="short" rot="R180"/>
 <pin name="LAT1" x="15.24" y="12.7" visible="pin" length="short" rot="R180"/>
 <pin name="CLK1" x="15.24" y="15.24" visible="pin" length="short" rot="R180"/>
 <pin name="SIN1" x="15.24" y="17.78" visible="pin" length="short" rot="R180"/>
 <pin name="VDD2" x="-12.7" y="5.08" visible="pin" length="short"/>
 <pin name="VSS" x="-12.7" y="-17.78" visible="pin" length="short"/>
-<pin name="VDD1" x="-12.7" y="17.78" visible="pin" length="short"/>
+<pin name="VDD1" x="-12.7" y="10.16" visible="pin" length="short"/>
 <pin name="GBLK" x="15.24" y="-7.62" visible="pin" length="short" rot="R180"/>
 <pin name="GLAT" x="15.24" y="-10.16" visible="pin" length="short" rot="R180"/>
 <pin name="GCLK" x="15.24" y="-12.7" visible="pin" length="short" rot="R180"/>
