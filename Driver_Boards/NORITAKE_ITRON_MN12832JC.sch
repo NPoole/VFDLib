@@ -8733,13 +8733,13 @@ Holes are offset from center 0.005", to hold pins in place while soldering.
 <part name="SUPPLY15" library="SparkFun-PowerSymbols" deviceset="5V" device=""/>
 <part name="SUPPLY16" library="SparkFun-PowerSymbols" deviceset="5V" device=""/>
 <part name="GND31" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="J1" library="SparkFun-Connectors" deviceset="CONN_04" device="PTH"/>
+<part name="J1" library="SparkFun-Connectors" deviceset="CONN_04" device="1X04_NO_SILK"/>
 <part name="J3" library="SparkFun-Connectors" deviceset="AVR_SPI_PROG_3X2" device="PTH"/>
 <part name="GND33" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY17" library="SparkFun-PowerSymbols" deviceset="5V" device=""/>
 <part name="SUPPLY18" library="SparkFun-PowerSymbols" deviceset="5V" device=""/>
 <part name="GND34" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="J2" library="SparkFun-Connectors" deviceset="CONN_04" device="PTH"/>
+<part name="J2" library="SparkFun-Connectors" deviceset="CONN_04" device="1X04_NO_SILK"/>
 <part name="SUPPLY19" library="SparkFun-PowerSymbols" deviceset="5V" device=""/>
 <part name="GND35" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 </parts>
